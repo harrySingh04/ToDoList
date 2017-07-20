@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+ // String variable for the checkbox label
+    <string name="complete">Completed</string>
+ /Start of declaration for the array of strings for the spinner  category option
+    <string-array name="category_array">
+        <item>Finance</item>
+        <item>Family</item>
+        <item>Work</item>
+        <item>School</item>
+    </string-array>
+/End of declaration for the array string
+
+// String variable for the text description on the main Activity
+    <string name="description">To do Description</string>
+
+    //String variable for the category displayed on the main activity
+    <string name="category">Category</string>
+    <string name="fin">Finance</string>
+    <string name="fam">Family</string>
+    <string name="work">Work</string>
+    <string name="school">School</string>
+
+</resources>

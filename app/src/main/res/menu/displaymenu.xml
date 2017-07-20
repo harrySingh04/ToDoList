@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Creating a menu for all the category of the task-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/deft"
+            android:title="Display All"/>
+         <item android:id="@+id/finance"
+              android:title="@string/fin"/>
+         <item android:id="@+id/fam"
+              android:title="@string/fam"/>
+        <item android:id="@+id/work"
+        android:title="@string/work"/>
+        <item android:id="@+id/school"
+        android:title="@string/school"/>
+
+</menu>
